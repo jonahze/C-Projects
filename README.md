@@ -1,1 +1,3 @@
-# C-Projects
+# C++ Projects 
+
+Assignments and Projects in C++
